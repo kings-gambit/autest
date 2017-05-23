@@ -1,0 +1,2 @@
+# autest
+auditd rule testing.
